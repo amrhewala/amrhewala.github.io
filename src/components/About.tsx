@@ -1,4 +1,3 @@
-
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { CollapsibleText } from "@/components/ui/collapsible-text";
 
@@ -14,11 +13,14 @@ export const About = () => {
             </CardTitle>
           </CardHeader>
           <CardContent className="text-lg leading-relaxed">
-            <CollapsibleText 
-              text="Senior Data Analysis I am a seasoned Senior Data Specialist at the Egyptian Economic Authority - GAFI (General Authority for Investment and Free Zones), dedicated to driving impactful data analysis and visualization strategies to elevate decision-making processes. In addition to this role, I bring a wealth of experience from successfully leading my own startup company in Europe for four years as its Chief Executive Officer.
-In the dynamic landscape of the investment management industry, I specialize in transforming complex datasets into actionable insights. My skill set includes advanced proficiency in Analytical Skills, Databases, and Quantitative Research. Notably, I played a pivotal role at GAFI, where I computerized all processes at the financial department and created a comprehensive database from scratch, covering the period from 2008 until now. This involved managing and analyzing vast amounts of data, generating numerous reports, and crafting intricate queries.
-My academic background includes valuable experience in academia, contributing to the fields of Business Administration and Management from Suez Canal University and Development Economics and International Development from the University of Vienna.
-As a data-driven professional with programming expertise, I excel in harnessing the power of analytics to inform strategic decision-making. Let's connect and explore how my unique blend of skills in data analysis, visualization, programming, and database management can contribute to the success of our mutual endeavors."
+            <CollapsibleText
+              text={`I'm a Senior Data Analytics Team Leader at Egypt's General Authority for Investment and Free Zones (GAFI), with more than 19 years of experience turning financial and operational data into decisions. Alongside my public-sector career, I founded a European consulting company, Family Company s.r.o., and have led it as CEO since 2015: on the ground in Slovakia until September 2018, and remotely since then.
+
+At GAFI's Suez Free Zone, I led the computerization of my own department, the Financial Follow-up Department, replacing its paper-based bookkeeping with a database I designed and have built and maintained from 2008 until today. That system covers bookkeeping, registrations, and accounting records for free-zone projects, and it grew into the reports, queries, and Power BI dashboards the department relies on every day. In my current role I lead a team of data analysts and set the department's analysis and visualization standards.
+
+My studies took me through MBA studies in Business Administration at Suez Canal University and development economics at the University of Vienna, together with German language studies. Those years shaped how I think about economics, policy, and business, and they sit at the core of how I work with data today.
+
+I work where data meets business: analytical skills, databases, and quantitative research, delivered through Power BI, Python, SQL, and Excel. If you're looking for someone who can turn complex datasets into clear, defensible decisions, let's connect.`}
               maxLines={3}
             />
           </CardContent>
