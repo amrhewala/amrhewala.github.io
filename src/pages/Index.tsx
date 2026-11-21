@@ -44,11 +44,11 @@ const sections = [
       </div>
     ) 
   },
+  { id: 'portfolio', component: <Portfolio /> },
   { id: 'skills', component: <Skills /> },
   { id: 'articles', component: <ArticlesSection /> },
   { id: 'experience', component: <Experience /> },
   { id: 'services', component: <Services /> },
-  { id: 'portfolio', component: <Portfolio /> },
   { id: 'achievements', component: <Achievements /> },
   { id: 'contact', component: <ContactForm /> },
 ];
