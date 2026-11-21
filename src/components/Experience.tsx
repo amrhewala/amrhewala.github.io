@@ -49,8 +49,8 @@ const experiences = [{
     "Built the Financial Follow-up Department's database in 2008; still support and extend it with new reports, queries and forms.",
     "Streamlined bookkeeping, registrations and accounting processes.",
     "Served as an Oracle ERP Key User, training team members and optimizing system usage.",
-    "Acted as the Investor Support Lead, resolving financial and operational issues, and maintaining compliance with updated guidelines.",
-    "Established a feedback loop with the central help desk, improving service quality.",
+    "Solved problems facing investors at the local help desk.",
+    "Took advice and instructions from the central help desk and applied them in the department.",
     "Produced or contributed to every report requested from the department, including outside working hours and on holidays."
   ],
   skills: ["MS Access", "MS Excel", "Agile"]
