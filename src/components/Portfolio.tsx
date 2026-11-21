@@ -15,20 +15,22 @@ import { ScrollArea } from "@/components/ui/scroll-area";
 const projects = [
   {
     title: "UK Train Performance Analysis",
-    description: `My DEPI Data Analytics graduation project: a complete Power BI analysis of UK National Rail rides (January to April 2024), which I led and executed end-to-end, from data modeling and DAX measures to dashboard design, key-influencer analysis, and forecasting.
+    description: `A complete Power BI analysis of UK National Rail ticket records (January to April 2024), which I built end to end, from data modeling and DAX measures to dashboard design, key-influencer analysis, and forecasting.
 
 Scope and Scale:
-* 31,653 rides analyzed across 65 routes, with 86.82% on-time performance.
-* £696.5K in revenue, with £38.7K in refunds across 1,118 refund requests.
+* 31,653 ticket records across 65 routes. 86.82% were for on-time journeys (27,481 of 31,653).
+* £696.5K ticket value, excluding cancelled records (£741.9K including them).
+* 1,118 refund requests with a ticket value of £38.7K. These are requests, not payments made.
 
 Key Findings:
-* Key-influencers analysis: refund requests are 14.5x more likely from debit-card payers, while journeys arriving at London Euston are 16.9x more likely to be delayed.
+* Refund requests: 30% of debit-card ticket records (504 of 1,683) had one, against 2% of all other records (614 of 29,970).
+* Delays: 68% of records for journeys arriving at London Euston were delayed (1,064 of 1,567), against 4% of all other records (1,228 of 30,086). These are patterns in the data, not proven causes.
 * Ridership, revenue, and ticket-demand trends broken down by route, station, ticket class, and purchase channel.
 
 Deliverables:
 * Interactive multi-page Power BI dashboard covering overview, ridership, revenue, journey performance, and ticket demand.
 * Time-series forecasting of ridership, revenue, and ticket sales.
-* Actionable recommendations backed by a 12-month implementation roadmap.`,
+* Recommendations backed by a 12-month implementation roadmap.`,
     technologies: ["Power BI", "DAX", "Data Modeling", "Key Influencers", "Forecasting", "Data Visualization"],
     images: ["/UK_Train_Overview.svg", "/UK_Train_Revenue.svg", "/UK_Train_Ridership.svg"],
   },
