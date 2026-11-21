@@ -7,9 +7,9 @@ const experiences = [{
   period: "Jul 2025 - Present",
   description: "Leading the data analytics team at the General Authority for Investment and Free Zones, setting analysis and visualization standards for financial reporting.",
   achievements: [
-    "Leading a team of 4 data analysts, optimizing workflows and reducing report turnaround time by 30%.",
-    "Setting department-wide standards for Power BI dashboards, reducing manual reporting time by 40% and enhancing financial transparency across departments.",
-    "Conducting training sessions on Power BI and data visualization best practices, improving team productivity by 15%."
+    "Leading the data analytics team and optimizing its reporting workflows.",
+    "Setting department-wide standards for Power BI dashboards and enhancing financial transparency across departments.",
+    "Conducting training sessions on Power BI and data visualization best practices."
   ],
   skills: ["Power BI", "DAX", "Team Leadership", "Python", "Agile"]
 }, {
@@ -18,10 +18,10 @@ const experiences = [{
   period: "Sep 2018 - Jul 2025",
   description: "Senior specialist for financial data analysis, reporting, and dashboard development.",
   achievements: [
-    "Spearheaded the analysis of financial data to generate actionable insights, improving operational efficiency by 15% and supporting strategic decision-making.",
-    "Designed and implemented Power BI dashboards, reducing manual reporting time by 40% and enhancing financial transparency across departments.",
-    "Identified key financial trends, resulting in a 25% improvement in data processing speed and accuracy.",
-    "Collaborated with cross-functional teams to develop automated data pipelines, reducing manual data entry errors by 20%."
+    "Spearheaded the analysis of financial data to generate actionable insights and support strategic decision-making.",
+    "Designed and implemented Power BI dashboards, enhancing financial transparency across departments.",
+    "Identified key financial trends.",
+    "Collaborated with cross-functional teams to develop automated data pipelines."
   ],
   skills: ["PHP", "Python", "NumPy", "Pandas", "Matplotlib", "Agile"]
 }, {
@@ -36,11 +36,11 @@ const experiences = [{
   period: "2007 - 2015",
   description: "Financial Follow-up Department, Suez Free Zone: digitized the department's paper-based financial records and built its database from scratch.",
   achievements: [
-    "Supervised financial operations for Adabia Free Zone projects, ensuring compliance with regulatory standards and improving reporting accuracy by 20%.",
-    "Digitized 80% of financial paperwork by developing a comprehensive database, streamlining bookkeeping, registrations, and accounting processes.",
-    "Served as an Oracle ERP Key User, training team members and optimizing system usage, resulting in a 15% improvement in operational efficiency.",
-    "Acted as the Investor Support Lead, resolving financial and operational issues, and maintaining a 100% compliance rate with updated guidelines.",
-    "Established a feedback loop with the central help desk, improving service quality and reducing resolution time by 25%."
+    "Supervised financial operations for Adabia Free Zone projects, ensuring compliance with regulatory standards and reporting accuracy.",
+    "Digitized financial paperwork by developing a comprehensive database, streamlining bookkeeping, registrations, and accounting processes.",
+    "Served as an Oracle ERP Key User, training team members and optimizing system usage.",
+    "Acted as the Investor Support Lead, resolving financial and operational issues, and maintaining compliance with updated guidelines.",
+    "Established a feedback loop with the central help desk, improving service quality."
   ],
   skills: ["MS Access", "MS Excel", "Agile"]
 }];
