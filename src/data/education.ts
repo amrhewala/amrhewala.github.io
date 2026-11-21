@@ -42,22 +42,19 @@ Projects Completed:
 Skills: Matplotlib · Data Manipulation · Perform EDA · Python · Pandas · Visualization · Draw conclusions · Wrangle data · Data Cleaning · NumPy`,
   },
   {
-    name: "Master of Business Administration (MBA), Business Administration and Management",
+    name: "MBA Studies, Business Administration and Management",
     logo: "/Suez_Canal_University.png",
     color: "#1a365d",
-    description: "Suez Canal University, Business Administration and Management (2014-2015). Member of the university volleyball team. Skills: Data Analytics, Accounting Standards",
-    fullDescription: `Suez Canal University, Business Administration and Management 
-( 2014 - 2015 )
-Activities and societies: Member of university volleyball team
-Skills: Data Analytics · Accounting Standards`,
+    description: "MBA Studies, Suez Canal University, Business Administration and Management.",
+    fullDescription: `MBA Studies, Suez Canal University
+Business Administration and Management`,
   },
   {
-    name: "Master's degree, Development Economics and International Development",
+    name: "Development Economics, University of Vienna",
     logo: "/Uni.png",
     color: "#00274C",
-    description: "Master's degree in Development Economics and International Development (2016-2019)",
-    fullDescription: `Vienna University
- (2016 - 2019 )`,
+    description: "Development Economics, University of Vienna.",
+    fullDescription: `Development Economics, University of Vienna`,
   },
   {
     name: "Bachelor's degree in Science & Education, Mathematics",
