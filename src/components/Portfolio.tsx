@@ -32,7 +32,7 @@ Deliverables:
 * Time-series forecasting of ridership, revenue, and ticket sales.
 * Recommendations backed by a 12-month implementation roadmap.`,
     technologies: ["Power BI", "DAX", "Data Modeling", "Key Influencers", "Forecasting", "Data Visualization"],
-    images: ["/UK_Train_Overview.svg", "/UK_Train_Revenue.svg", "/UK_Train_Ridership.svg"],
+    images: ["/UK_Train_Overview_publication.png", "/UK_Train_Revenue.svg", "/UK_Train_Ridership.svg"],
   },
   {
     title: "CA Sales Report",
