@@ -9,7 +9,13 @@ const experiences = [{
   achievements: [
     "Leading the data analytics team and optimizing its reporting workflows.",
     "Setting department-wide standards for Power BI dashboards and enhancing financial transparency across departments.",
-    "Conducting training sessions on Power BI and data visualization best practices."
+    "Conducting training sessions on Power BI and data visualization best practices.",
+    "Prepare, audit and oversee the zone's statistical and periodic reports.",
+    "Built an interactive dashboard connected to the zone's databases for real-time and monthly summaries and company performance tracking.",
+    "Built databases for investor requests, including residence and work permits, and for tracking responses to the Central Auditing Organization's annual report.",
+    "Computerized declarations processing at Port Tawfik in early 2026, its first computerization since the zone opened. Set up the data-entry room, equipment, power and network, and trained staff and project representatives.",
+    "Proposed an initiative to organize work instructions, forms and the quality manual. The head of the Authority accepted it and recommended implementation through the Central Quality and Central Systems departments.",
+    "Review the zone's information on Egypt's Investment Map and represent the zone in the Authority's complaints system."
   ],
   skills: ["Power BI", "DAX", "Team Leadership", "Python", "Agile"]
 }, {
