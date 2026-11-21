@@ -5,7 +5,6 @@ import { Textarea } from "@/components/ui/textarea";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Mail, Phone, MapPin } from "lucide-react";
 import { useToast } from "@/components/ui/use-toast";
-import { supabase } from "@/integrations/supabase/client";
 
 export const ContactForm = () => {
   const [formData, setFormData] = useState({
@@ -21,11 +20,18 @@ export const ContactForm = () => {
     setIsLoading(true);
 
     try {
-      const { data, error } = await supabase.functions.invoke('send-email', {
-        body: formData
+      const submission = new FormData();
+      submission.append("name", formData.name);
+      submission.append("email", formData.email);
+      submission.append("message", formData.message);
+
+      const response = await fetch("https://formspree.io/f/mdeglzyq", {
+        method: "POST",
+        body: submission,
+        headers: { Accept: "application/json" },
       });
 
-      if (error) throw error;
+      if (!response.ok) throw new Error("Form submission failed");
 
       toast({
         title: "Message sent!",
