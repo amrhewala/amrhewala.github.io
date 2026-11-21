@@ -8,7 +8,6 @@ import { CertificatesCarousel } from "@/components/hero/CertificatesCarousel";
 import { Skills } from "@/components/Skills";
 import { Achievements } from "@/components/Achievements";
 import { Services } from "@/components/Services";
-import { Testimonials } from "@/components/Testimonials";
 import { certificates } from "@/data/certificates";
 import { SocialLinks } from "@/components/hero/SocialLinks";
 import { LogoSection } from "@/components/sections/LogoSection";
@@ -51,7 +50,6 @@ const sections = [
   { id: 'services', component: <Services /> },
   { id: 'portfolio', component: <Portfolio /> },
   { id: 'achievements', component: <Achievements /> },
-  { id: 'testimonials', component: <Testimonials /> },
   { id: 'contact', component: <ContactForm /> },
 ];
 
