@@ -46,10 +46,12 @@ const experiences = [{
   description: "Financial Follow-up Department, Suez Free Zone: digitized the department's paper-based financial records and built its database from scratch.",
   achievements: [
     "Supervised financial operations for Adabia Free Zone projects, ensuring compliance with regulatory standards and reporting accuracy.",
-    "Digitized financial paperwork by developing a comprehensive database, streamlining bookkeeping, registrations, and accounting processes.",
+    "Built the Financial Follow-up Department's database in 2008; still support and extend it with new reports, queries and forms.",
+    "Streamlined bookkeeping, registrations and accounting processes.",
     "Served as an Oracle ERP Key User, training team members and optimizing system usage.",
     "Acted as the Investor Support Lead, resolving financial and operational issues, and maintaining compliance with updated guidelines.",
-    "Established a feedback loop with the central help desk, improving service quality."
+    "Established a feedback loop with the central help desk, improving service quality.",
+    "Produced or contributed to every report requested from the department, including outside working hours and on holidays."
   ],
   skills: ["MS Access", "MS Excel", "Agile"]
 }];
