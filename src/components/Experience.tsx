@@ -46,7 +46,8 @@ const experiences = [{
   description: "Researcher and data specialist, Financial Follow-up Department, Suez Free Zone (Adabia): digitized the department's paper-based financial records and built its database from scratch.",
   achievements: [
     "Followed up all financial and organizational matters of the projects operating under the free zones system: claims, follow-ups, fee assessment and payment follow-up.",
-    "Built the Financial Follow-up Department's database in 2008; still support and extend it with new reports, queries and forms.",
+    "Presented the initiatives and reports to the authorities and my superiors.",
+    "Built the Financial Follow-up Department's database in 2008, computerizing the bookkeeping ledger, registration (credit, debit, adjusting, constraints) and all accounting paperwork. Still support and extend it with new reports, queries and forms.",
     "Streamlined bookkeeping, registrations and accounting processes.",
     "Served as an Oracle ERP Key User, training team members and optimizing system usage.",
     "Solved problems facing investors at the local help desk.",
