@@ -27,7 +27,10 @@ const experiences = [{
     "Spearheaded the analysis of financial data to generate actionable insights and support strategic decision-making.",
     "Designed and implemented Power BI dashboards, enhancing financial transparency across departments.",
     "Identified key financial trends.",
-    "Collaborated with cross-functional teams to develop automated data pipelines."
+    "Collaborated with cross-functional teams to develop automated data pipelines.",
+    "Built an Access database at the Port Tawfik Executive Department to record daily declarations, replacing handwritten ledgers (2025).",
+    "Built a database tracking annual and surprise inventory checks of projects.",
+    "Fixed chronic outages and slow database connections at the Adabia Executive Department and redesigned its internal network."
   ],
   skills: ["PHP", "Python", "NumPy", "Pandas", "Matplotlib", "Agile"]
 }, {
