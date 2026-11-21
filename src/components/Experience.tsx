@@ -43,9 +43,9 @@ const experiences = [{
   title: " Data Specialist",
   company: "GAFI",
   period: "2007 - 2015",
-  description: "Financial Follow-up Department, Suez Free Zone: digitized the department's paper-based financial records and built its database from scratch.",
+  description: "Researcher and data specialist, Financial Follow-up Department, Suez Free Zone (Adabia): digitized the department's paper-based financial records and built its database from scratch.",
   achievements: [
-    "Supervised financial operations for Adabia Free Zone projects, ensuring compliance with regulatory standards and reporting accuracy.",
+    "Followed up all financial and organizational matters of the projects operating under the free zones system: claims, follow-ups, fee assessment and payment follow-up.",
     "Built the Financial Follow-up Department's database in 2008; still support and extend it with new reports, queries and forms.",
     "Streamlined bookkeeping, registrations and accounting processes.",
     "Served as an Oracle ERP Key User, training team members and optimizing system usage.",
